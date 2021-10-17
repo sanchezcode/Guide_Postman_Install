@@ -71,7 +71,27 @@ iniciara la actualizacion y esperamos hasta que termine el proceso
 ![image](https://user-images.githubusercontent.com/54609399/137612201-e6807b89-a19b-46a1-b7bc-949892b2ac39.png)
 
 
+8 - Nos redireccionara a la página de postman
 
+![image](https://user-images.githubusercontent.com/54609399/137632845-745b52ef-0422-4cbc-a1d0-36d972c3b5cb.png)
+
+9 - Check y damos en abrir postman
+
+![image](https://user-images.githubusercontent.com/54609399/137632885-4c8de6eb-92a1-4ab6-ace2-935fb6bbfc72.png)
+
+10 - Listo tendremos nuestra sesion de postman iniciada
+
+![image](https://user-images.githubusercontent.com/54609399/137632906-206c7b2f-9b77-49b8-9577-c4c778412a92.png)
+
+11 - Podemos cambiar aqui tambien por tema dark
+
+![image](https://user-images.githubusercontent.com/54609399/137632932-39039afe-69a0-46ac-b532-c0c6427879d2.png)
+
+![image](https://user-images.githubusercontent.com/54609399/137632943-8795754a-0178-420b-bc6b-9cda908fd8a7.png)
+
+![image](https://user-images.githubusercontent.com/54609399/137632952-6d0f5629-4fc3-4142-b063-ecad13544d59.png)
+
+NOTA: en caso tañl de error.
 
 
 ![image](https://user-images.githubusercontent.com/54609399/137612261-a59d5a5f-a885-480b-9f5d-ac78d39a675c.png)
