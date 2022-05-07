@@ -1,4 +1,9 @@
-# Guide_Postman_Windows
+# Guide_Postman_Install
+
+Contenido:
+
+  - INSTALACIÓN EN WINDOWS (10 y 11)
+  - INSTALACIÓN EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS)
 
 1 - Visitamos la página oficial de Postman https://www.postman.com/
 
@@ -95,6 +100,52 @@ NOTA: en caso tañl de error.
 
 
 ![image](https://user-images.githubusercontent.com/54609399/137612261-a59d5a5f-a885-480b-9f5d-ac78d39a675c.png)
+
+
+___________________________________________________
+
+**** INSTALACIÓN EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS) ****
+___________________________________________________
+
+1 - Entramos en la tienda de Software de ubuntu
+
+![image](https://user-images.githubusercontent.com/54609399/167268176-5cc566b8-b0d2-4d9f-9cdb-c4f7ac071eb3.png)
+
+2 - En la busqueda escribimos *Postman*
+
+![image](https://user-images.githubusercontent.com/54609399/167268209-b24369d4-f6bb-429c-8a1e-393bbf25d699.png)
+
+3 - Entramos en Postman y procedemos a instalar
+
+![image](https://user-images.githubusercontent.com/54609399/167268234-d04a8ae7-61f6-436f-915d-623bd189d2a5.png)
+
+4 - En la siguiente imagen confirmaremos que ya quedo instalado
+
+![image](https://user-images.githubusercontent.com/54609399/167268294-59799d89-96c7-4591-8c72-3a189497438a.png)
+
+5 - Procedemos a buscarlo en el inicio de Ubuntu
+
+![image](https://user-images.githubusercontent.com/54609399/167268333-0d11650e-f3b2-43a3-9f4a-5046e604e6fb.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167268314-c039ef6d-717c-45ec-a313-29b83cb2953c.png)
+
+6 - Ejecutamos Postman y damos click en iniciar sesión, esto nos redireccionara a la pagina web de postman donde usaremos la cuenta previamente creada:
+
+![image](https://user-images.githubusercontent.com/54609399/167268384-72d68d1f-8b1e-4611-9218-19a76eab34a9.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167268454-2ff16e43-11e5-4fa3-91f1-23d3443f664b.png)
+
+Esto nos ubicar anuevamente en la App y en la pantalla de inicio
+
+![image](https://user-images.githubusercontent.com/54609399/167268494-6799b9e3-b497-45f7-ba6c-a396dcecc871.png)
+
+7 - Podemos ajustar el tema en la siguiente opcion:
+
+![image](https://user-images.githubusercontent.com/54609399/167268549-05717ee3-714e-4d2f-8f2a-d93e288822e5.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167268570-e92f0e8a-8fa8-4bae-826e-b4a7315c5258.png)
+
+
 
 
 
