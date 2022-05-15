@@ -2,8 +2,14 @@
 
 Contenido:
 
+  - CREACIÓN DE CUENTA
   - INSTALACIÓN EN WINDOWS (10 y 11)
   - INSTALACIÓN EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS)
+
+__________________________________________
+
+**** CREACIÓN DE CUENTA ****
+__________________________________________
 
 1 - Visitamos la página oficial de Postman https://www.postman.com/
 
@@ -38,57 +44,44 @@ Contenido:
 ![image](https://user-images.githubusercontent.com/54609399/137611800-78a0e20e-f6da-4404-a9f6-9d0afa54ce9f.png)
 
 
-**** APP ****
+__________________________________________
+
+**** INSTALACIÓN EN WINDOWS (10 y 11) ****
+__________________________________________
 
 1 - Entramos la siguiente URL https://www.postman.com/downloads/
 
-![image](https://user-images.githubusercontent.com/54609399/137611852-ca83818c-358e-4e48-b4fd-68a6188cb94c.png)
+![image](https://user-images.githubusercontent.com/54609399/168497826-3325b71f-e850-4561-9927-c91af4f5868d.png)
 
-2 - Damos click en download y nos aparece para descargar 64 bits, no descargar 32
+2 - Ejecutamos el instalador
 
-![image](https://user-images.githubusercontent.com/54609399/137611891-dd1ad6e9-55ef-416f-83f6-6f5ed9be8d22.png)
+![image](https://user-images.githubusercontent.com/54609399/168497864-25c92877-9aac-4dec-82c2-d2aa1914e4f1.png)
 
-3 - Ejecutamos el instalador
+3 - Nos aparece la ventana de instalación
 
-![image](https://user-images.githubusercontent.com/54609399/137612080-b534d690-fb07-41b5-b438-71a5b6a93225.png)
+![image](https://user-images.githubusercontent.com/54609399/168498001-a9f5d08a-fef6-42ca-8159-e888880ebbc7.png)
 
-4 - Nos aparece la siguiente interfaz 
+4 - Nos redirecciona al navegaro web iniciar sesion donde podemos encontrar esta pagina.
 
-![image](https://user-images.githubusercontent.com/54609399/137612108-7b193944-44a5-453a-8fc3-177557512b10.png)
+![image](https://user-images.githubusercontent.com/54609399/168498048-8e2fa995-4468-479c-841a-ca5c8d362e93.png)
 
-y ya nos cargara la ventana de Postman
-
-5 - Nos pedira una actualizacion y le daremos en update
-
-![image](https://user-images.githubusercontent.com/54609399/137612130-78ab3b6a-42aa-4327-a2f8-7c4b5db790c4.png)
-
-
-iniciara la actualizacion y esperamos hasta que termine el proceso
-
-![image](https://user-images.githubusercontent.com/54609399/137612140-1535b41f-e1f9-4aa0-8a7b-2225db2fb152.png)
-
-6 - Cuando termine el proceso nos pedira reiniciar postman
-
-![image](https://user-images.githubusercontent.com/54609399/137612186-7b37ae24-7479-4c40-8c9c-662c11144689.png)
-
-7 - Iniciamos sesion
-
-![image](https://user-images.githubusercontent.com/54609399/137612201-e6807b89-a19b-46a1-b7bc-949892b2ac39.png)
-
-
-8 - Nos redireccionara a la página de postman
+o en ocaciones nos aparecera esta en cualquiera de las dos iniciamos con nuestra cuenta creada de postman.
 
 ![image](https://user-images.githubusercontent.com/54609399/137632845-745b52ef-0422-4cbc-a1d0-36d972c3b5cb.png)
 
-9 - Check y damos en abrir postman
+mientras hacemos el proceso de iniciar sesion con nuestra cuenta de Postman, la app estara asi
 
-![image](https://user-images.githubusercontent.com/54609399/137632885-4c8de6eb-92a1-4ab6-ace2-935fb6bbfc72.png)
+![image](https://user-images.githubusercontent.com/54609399/168498083-593bd956-a392-496a-8b22-0db6a6a361c1.png)
 
-10 - Listo tendremos nuestra sesion de postman iniciada
+5 - Cuando iniciemos sesion nos aparecera lo siguiente 
 
-![image](https://user-images.githubusercontent.com/54609399/137632906-206c7b2f-9b77-49b8-9577-c4c778412a92.png)
+![image](https://user-images.githubusercontent.com/54609399/168498126-e754c166-68ea-4c5f-af2c-81c1f8a0415d.png)
 
-11 - Podemos cambiar aqui tambien por tema dark
+al darle click en abrir con Postman la app ya iniciara sesion.
+
+![image](https://user-images.githubusercontent.com/54609399/168498152-968f7464-0c44-483b-9459-a22d95fd2952.png)
+
+6 - Podemos cambiar aqui tambien por tema dark
 
 ![image](https://user-images.githubusercontent.com/54609399/137632932-39039afe-69a0-46ac-b532-c0c6427879d2.png)
 
@@ -96,7 +89,7 @@ iniciara la actualizacion y esperamos hasta que termine el proceso
 
 ![image](https://user-images.githubusercontent.com/54609399/137632952-6d0f5629-4fc3-4142-b063-ecad13544d59.png)
 
-NOTA: en caso tañl de error.
+NOTA: en caso tal de error de conexión saldra la siguiente interfaz a la cual daremos Retry para volver a intentar
 
 
 ![image](https://user-images.githubusercontent.com/54609399/137612261-a59d5a5f-a885-480b-9f5d-ac78d39a675c.png)
